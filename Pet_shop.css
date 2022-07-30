@@ -1,0 +1,93 @@
+.mascotas {
+    height: 600px;
+    width: 100%;
+   
+}
+#carouselExampleInterval {
+    position: relative;
+    width: 30%;
+    top: 70px;
+    left: 70px;
+}
+
+.perro {
+    height: 420px;
+}
+
+.gato {
+    height: 420px;
+    width: 580px;
+}
+.conejo {
+    height: 420px;
+    width: 580px;
+    
+}
+.background {
+    background-image: url("background.webp");
+    height: 580px;
+
+}
+.perrogato {
+    background-color: rgb(254, 254, 85);
+    position: absolute;
+    top: 770px;
+    left: 760px;
+    height: 304px;
+    width: 1080px; 
+}
+.pets {
+    position: absolute;
+    top: 720px;
+    left: 760px;
+    text-decoration: underline;
+    -webkit-text-stroke: 1px rgb(255, 255, 255);
+}
+.ultimo {
+    height: 426px;
+}
+.mapa {
+    position: relative;
+    top: 20px;
+    
+}
+h2 {
+    position: relative;
+    top: 20px;
+}
+.row {
+    position: relative;
+    height: 500px;
+    width: 500px;
+}
+.comida2 {
+    position: relative;
+    left: 200px;
+    height: 404px;
+    width: 380px;
+}
+
+.comida1 {
+    height: 404px;
+    width: 280px;
+}
+.text {
+    position: relative;
+    left: 500px;
+    width: 250px;
+}
+.food {
+background: gray;
+width: 100%;
+}
+.formulario {
+    position: absolute;
+    left: 1050px;
+    top: 2580px;
+}
+html {
+    scroll-behavior: smooth;
+}
+.scroll_section {
+    scroll-margin-top: 60px;
+}
